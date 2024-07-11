@@ -1,0 +1,889 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00.MainGame">
+      <UniqueIdentifier>{b825668a-436a-4e73-b929-208dec08c5eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design">
+      <UniqueIdentifier>{d3dc00b1-6ea7-4e59-80fc-c3dfa749995a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\00.AbstracFactory">
+      <UniqueIdentifier>{c7498b2d-93b8-41d2-8400-4c3d2646c0a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\01.CollisionMgr">
+      <UniqueIdentifier>{e62b4c94-3f41-422e-8341-1c6ceeddf5ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\02.ObjMgr">
+      <UniqueIdentifier>{f70ffc30-7e57-4453-9eaa-511682f95acc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="03.Obj">
+      <UniqueIdentifier>{bd1cce79-5a35-44e1-ade6-7d3d178512ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\00.Player">
+      <UniqueIdentifier>{9f312d16-8033-4b69-aa54-b9fae031a4ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\05.KeyMgr">
+      <UniqueIdentifier>{51f16b18-f245-454b-8c6a-182b6f75d139}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\06.ScrollMgr">
+      <UniqueIdentifier>{ab6b8b6b-c912-463b-8a86-b1801999078a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\07.BmpMgr">
+      <UniqueIdentifier>{4cd227d6-c44f-4744-87e5-4ef184b77045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\09.TileMgr">
+      <UniqueIdentifier>{cd30f0da-e616-44da-9a07-e5de570a066b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\03.UIMgr">
+      <UniqueIdentifier>{692caaf4-a415-44b7-b9c1-8574d7938ba7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene">
+      <UniqueIdentifier>{dbee07e9-080c-44b6-bd83-75656e09e21e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\00.ZeroTemple">
+      <UniqueIdentifier>{866fd6cf-8bb1-4304-8292-d0ef92c4ec17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\06.ForgottenDusk">
+      <UniqueIdentifier>{4213a499-411d-4a6d-b6ee-e9f23bfeecca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\07.GodsDusk">
+      <UniqueIdentifier>{e8750f62-f408-4c45-baab-be354ae39cfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI">
+      <UniqueIdentifier>{23f5ecfb-1fa5-4ff0-adff-817607a903f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\00.BottomUI">
+      <UniqueIdentifier>{5a1da027-2051-4921-90ab-dff0754559b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\07.BmpMgr\MyBMP">
+      <UniqueIdentifier>{dc7b3312-699e-4cb4-8afb-2d956dac7dff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\01.NPC">
+      <UniqueIdentifier>{b8141746-1d8a-4a4c-a01d-40007892bc05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\01.NPC\01.ChouTrunk">
+      <UniqueIdentifier>{448108bc-a84d-44f6-9ef0-89601812bd79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\01.NPC\00.RagunNone">
+      <UniqueIdentifier>{6ef01a41-314e-4ad0-a082-31d42d88be8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\01.NPC\03.PienNone">
+      <UniqueIdentifier>{d50106d4-27fb-47fb-9f2f-4bf63d8f9c76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\01.NPC\04.DelloNone">
+      <UniqueIdentifier>{651c2860-7db7-47f7-a87d-14a4ae92dc77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\01.NPC\07.KirsternBoss">
+      <UniqueIdentifier>{a7c12990-95c3-48b9-9c9a-01b914e2f9b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\02.Boss">
+      <UniqueIdentifier>{7175faaa-f3cd-454c-92c6-dac8c1a4fc2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="01.Design\04.LineMgr">
+      <UniqueIdentifier>{1bacfb54-05b5-4f1b-b6b8-2c0b06b97b24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\04.LineMgr\Line">
+      <UniqueIdentifier>{09015d5a-5562-4822-989e-d729c3ddacda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\00.BottomUI\01.HpTp">
+      <UniqueIdentifier>{40901bc5-44eb-42e7-a32d-fd01b638005c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\00.BottomUI\02.AssistHpTp">
+      <UniqueIdentifier>{7e2cbf76-e250-4600-b9e5-e2c762918a82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\00.BottomUI\03.Button">
+      <UniqueIdentifier>{7d4652ad-8e8d-476d-9308-993bf019a3f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\01.NPC\02.CellStore">
+      <UniqueIdentifier>{7fbf8df3-e0a8-4471-b4e7-df2b179a7f80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\01.BossUI">
+      <UniqueIdentifier>{6d824a48-1eda-4e60-8986-50b15fb07e1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\10.SoundMgr">
+      <UniqueIdentifier>{68e03019-5b1f-43a7-a8dd-e8a3ea0f16cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\00.BottomUI\00.Exp">
+      <UniqueIdentifier>{cc583948-2010-41a6-b993-580aea3192fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\01.BossUI\00.Hp">
+      <UniqueIdentifier>{5e423518-e826-4ab4-8768-52a5de2203a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\01.BossUI\01.EnterUI">
+      <UniqueIdentifier>{a46b8a65-a91a-4414-be94-5e79f5c60519}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\02.Mouse">
+      <UniqueIdentifier>{5642577a-b306-4f23-83e6-73dfed96d71b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\01.BossUI\02.CallBoss">
+      <UniqueIdentifier>{5bac07eb-64f0-41c0-aaf9-03a992e18f53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\01.BossUI\03.ExitUI">
+      <UniqueIdentifier>{a5926805-f7f0-41ce-ae3e-a02feb887d18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\08.SceneMgr">
+      <UniqueIdentifier>{a30521e1-7cc3-4430-81a6-1bad9fa8487a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\01.NPC\05.EnterBoss">
+      <UniqueIdentifier>{5cef5031-8107-4058-9c74-57947ea484a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\01.NPC\06.ExitBoss">
+      <UniqueIdentifier>{56c8048c-b55a-4ee8-acf3-8e6fdce8af16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\08.PinkBeanVideo">
+      <UniqueIdentifier>{e2834744-4af7-4927-91a7-74c73ba30580}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Design\10.SoundMgr\fmod">
+      <UniqueIdentifier>{d9054abd-7c51-4201-a250-af2e61fd80f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\00.Player\00.MoonStrike">
+      <UniqueIdentifier>{c16402a3-5c45-4f54-b4cc-197f43c1ecca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\00.Player\01.FlashAssaulter">
+      <UniqueIdentifier>{f6168643-3e54-42cb-b64e-fbbd4481385a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\00.Player\02.UpperSlash">
+      <UniqueIdentifier>{8cb008b7-57a7-4035-a9fd-9dc9d6412d8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\00.Player\03.FrontSlash">
+      <UniqueIdentifier>{de4a2334-c127-463d-aa3f-eccf5656155f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\02.Boss\00.PB_MusicNote">
+      <UniqueIdentifier>{2509083b-798f-486f-801d-3710842e2ae4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\02.Boss\01.PB_Genesis">
+      <UniqueIdentifier>{f069ff17-bc83-47c6-aa8f-17fd46ee774d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\01.NPC\08.Portal">
+      <UniqueIdentifier>{e6cca6b2-39fd-412a-8113-224708a7418e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="04.UI\03.InventoryUI">
+      <UniqueIdentifier>{80bfe71c-d9f3-425a-b686-ae2dd1764255}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.UI\03.InventoryUI\ItemSlotUI">
+      <UniqueIdentifier>{b4302a25-9637-4f99-b1ab-835a509a4797}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item">
+      <UniqueIdentifier>{36445181-799a-48c7-a7a3-f8a0b9d6f32c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\00.PowerElixer">
+      <UniqueIdentifier>{5c789d04-a53f-40be-869e-ea28d0a44828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\01.RedPotion">
+      <UniqueIdentifier>{cab6f579-022d-454e-aa41-256dcd4afc71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\02.BluePotion">
+      <UniqueIdentifier>{db8f231b-f69c-4667-8e9d-969c09fc36e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Scene\02.ThreeDoors">
+      <UniqueIdentifier>{30c3161b-a00d-4cfe-afa7-eed8bea8690c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\01.NPC\09.Portal2">
+      <UniqueIdentifier>{0bdb77a8-870e-41c5-95f3-3779b80f1076}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\04.Pet">
+      <UniqueIdentifier>{6175defe-a8a1-4223-bc76-498bfe204f55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\05.Mob">
+      <UniqueIdentifier>{4451e7e6-f76e-498c-979c-e37c9c56218f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\04.Pet\00.PinkFox">
+      <UniqueIdentifier>{16a7e730-b9d0-4832-b304-038e160eda18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\04.Pet\01.YellowFox">
+      <UniqueIdentifier>{4fc626d7-ceaf-4e0b-8b8b-7f4a0cbc3271}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\04.Pet\02.BlueFox">
+      <UniqueIdentifier>{0313d052-aaa8-4aec-b044-63567a7d63e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\05.Mob\00.MobA1">
+      <UniqueIdentifier>{fafd51c6-ee03-4d02-81b9-c0690464d12d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\05.Mob\01.MobB1">
+      <UniqueIdentifier>{2bea97ab-dafa-4aa6-b2ba-732f8762ed58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\05.Mob\02.MobC1">
+      <UniqueIdentifier>{7a637593-daeb-4b64-8a77-9f7a23a56bb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\03.OrangePotion">
+      <UniqueIdentifier>{28996d5d-30f0-4279-9f54-bf63a07a6cf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\04.WhitePotion">
+      <UniqueIdentifier>{a25b0035-7059-4bd3-a7be-6717d160de2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\05.Pinkbean_hat">
+      <UniqueIdentifier>{e4365caa-0a37-45d1-afd3-7d81288faa2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\06.Pinkbean_suit">
+      <UniqueIdentifier>{fc3ac0b8-b59f-4976-89b9-d49ba6e21b67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\07.Pinkbean_mark">
+      <UniqueIdentifier>{0f845fa0-f64a-4638-a80d-73c50453837d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\08.Blackbean_mark">
+      <UniqueIdentifier>{e0de92cc-2984-419c-ad2c-10396c6da6dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\09.BlackMage_badge">
+      <UniqueIdentifier>{4cd92a6b-ea7a-45ee-9760-44fa82b8fb66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\10.Pinkbean_balloon">
+      <UniqueIdentifier>{5f62b08b-cd31-4278-bc58-01e07df9ec56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\11.Pinkbean_belt">
+      <UniqueIdentifier>{dfa2f7e9-907c-4911-b6cf-ed9b1de6195c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\12.Pinkbean_cotton">
+      <UniqueIdentifier>{138842b8-85ba-46c9-9a4a-70c856d15fb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\13.Pinkbean_cup">
+      <UniqueIdentifier>{a97ed9ae-1072-4cdb-b96f-8ba599d9d694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\14.Pinkbean_meat">
+      <UniqueIdentifier>{0967970a-597e-4178-ba08-9ff7ed709f22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\15.Pinkbean_pet">
+      <UniqueIdentifier>{39bae6f4-03c0-437b-8282-54f7e0c4e5eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\16.Pinkbean_potion">
+      <UniqueIdentifier>{ea4d3972-aeed-4db1-900e-96fdb5e2743e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Obj\03.Item\17.Pinkbean_soul">
+      <UniqueIdentifier>{a2163341-63f4-444b-987a-12774237ec1d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MapleStory.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>00.MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractFactory.h">
+      <Filter>01.Design\00.AbstracFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>01.Design\01.CollisionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjMgr.h">
+      <Filter>01.Design\02.ObjMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="LineMgr.h">
+      <Filter>01.Design\04.LineMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>01.Design\05.KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollMgr.h">
+      <Filter>01.Design\06.ScrollMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="BmpMgr.h">
+      <Filter>01.Design\07.BmpMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMgr.h">
+      <Filter>01.Design\08.SceneMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>03.Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="UIMgr.h">
+      <Filter>01.Design\03.UIMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui.h">
+      <Filter>04.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>01.Design\04.LineMgr\Line</Filter>
+    </ClInclude>
+    <ClInclude Include="MyBmp.h">
+      <Filter>01.Design\07.BmpMgr\MyBMP</Filter>
+    </ClInclude>
+    <ClInclude Include="ZeroTemple.h">
+      <Filter>02.Scene\00.ZeroTemple</Filter>
+    </ClInclude>
+    <ClInclude Include="ForgottenDusk.h">
+      <Filter>02.Scene\06.ForgottenDusk</Filter>
+    </ClInclude>
+    <ClInclude Include="GodsDusk.h">
+      <Filter>02.Scene\07.GodsDusk</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>02.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>03.Obj\00.Player</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_Ragun.h">
+      <Filter>03.Obj\01.NPC\00.RagunNone</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_Chou.h">
+      <Filter>03.Obj\01.NPC\01.ChouTrunk</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_Cell.h">
+      <Filter>03.Obj\01.NPC\02.CellStore</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_Pien.h">
+      <Filter>03.Obj\01.NPC\03.PienNone</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_Dello.h">
+      <Filter>03.Obj\01.NPC\04.DelloNone</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_EnterBoss.h">
+      <Filter>03.Obj\01.NPC\05.EnterBoss</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_Kirstern.h">
+      <Filter>03.Obj\01.NPC\07.KirsternBoss</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_ExitBoss.h">
+      <Filter>03.Obj\01.NPC\06.ExitBoss</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill_flashAssaulter.h">
+      <Filter>03.Obj\00.Player\01.FlashAssaulter</Filter>
+    </ClInclude>
+    <ClInclude Include="SKill_moonStrike.h">
+      <Filter>03.Obj\00.Player\00.MoonStrike</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill_upperSlash.h">
+      <Filter>03.Obj\00.Player\02.UpperSlash</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill_frontSlash.h">
+      <Filter>03.Obj\00.Player\03.FrontSlash</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractFactoryUI.h">
+      <Filter>01.Design\00.AbstracFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_ExpBar.h">
+      <Filter>04.UI\00.BottomUI\00.Exp</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUi_ExpGauge.h">
+      <Filter>04.UI\00.BottomUI\00.Exp</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_HpTpGauge1.h">
+      <Filter>04.UI\00.BottomUI\01.HpTp</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_HpTpBar1.h">
+      <Filter>04.UI\00.BottomUI\01.HpTp</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_HpTpGauge2.h">
+      <Filter>04.UI\00.BottomUI\01.HpTp</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_HpTpBar2.h">
+      <Filter>04.UI\00.BottomUI\01.HpTp</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_AssistBar.h">
+      <Filter>04.UI\00.BottomUI\02.AssistHpTp</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_AssistHp.h">
+      <Filter>04.UI\00.BottomUI\02.AssistHpTp</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_AssistTp.h">
+      <Filter>04.UI\00.BottomUI\02.AssistHpTp</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_Bt0_Cash.h">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_Bt1_Event.h">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_Bt2_Char.h">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_Bt3_Commu.h">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_Bt4_Setting.h">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClInclude>
+    <ClInclude Include="MainUI_Bt5_Option.h">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClInclude>
+    <ClInclude Include="PB_MusicNote.h">
+      <Filter>03.Obj\02.Boss\00.PB_MusicNote</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>01.Design\10.SoundMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="PB_Genesis.h">
+      <Filter>03.Obj\02.Boss\01.PB_Genesis</Filter>
+    </ClInclude>
+    <ClInclude Include="Portal.h">
+      <Filter>03.Obj\01.NPC\08.Portal</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>04.UI\02.Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="BossUI_HpBar.h">
+      <Filter>04.UI\01.BossUI\00.Hp</Filter>
+    </ClInclude>
+    <ClInclude Include="BossUI_HpGauge.h">
+      <Filter>04.UI\01.BossUI\00.Hp</Filter>
+    </ClInclude>
+    <ClInclude Include="BossUI_Bt1_Normal.h">
+      <Filter>04.UI\01.BossUI\01.EnterUI</Filter>
+    </ClInclude>
+    <ClInclude Include="BossUI_Bt2_Chaos.h">
+      <Filter>04.UI\01.BossUI\01.EnterUI</Filter>
+    </ClInclude>
+    <ClInclude Include="BossUI_EnterBox.h">
+      <Filter>04.UI\01.BossUI\01.EnterUI</Filter>
+    </ClInclude>
+    <ClInclude Include="BossUI_Bt1_Accept.h">
+      <Filter>04.UI\01.BossUI\02.CallBoss</Filter>
+    </ClInclude>
+    <ClInclude Include="BossUI_Bt2_Refuse.h">
+      <Filter>04.UI\01.BossUI\02.CallBoss</Filter>
+    </ClInclude>
+    <ClInclude Include="BossUI_CallBox.h">
+      <Filter>04.UI\01.BossUI\02.CallBoss</Filter>
+    </ClInclude>
+    <ClInclude Include="BossUI_Bt1_Yes.h">
+      <Filter>04.UI\01.BossUI\03.ExitUI</Filter>
+    </ClInclude>
+    <ClInclude Include="BossUI_ExitBox.h">
+      <Filter>04.UI\01.BossUI\03.ExitUI</Filter>
+    </ClInclude>
+    <ClInclude Include="BossUI_Bt2_No.h">
+      <Filter>04.UI\01.BossUI\03.ExitUI</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMgr.h">
+      <Filter>01.Design\09.TileMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="PinkBeanVideo.h">
+      <Filter>02.Scene\08.PinkBeanVideo</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod.h">
+      <Filter>01.Design\10.SoundMgr\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod.hpp">
+      <Filter>01.Design\10.SoundMgr\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_codec.h">
+      <Filter>01.Design\10.SoundMgr\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_dsp.h">
+      <Filter>01.Design\10.SoundMgr\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_errors.h">
+      <Filter>01.Design\10.SoundMgr\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_memoryinfo.h">
+      <Filter>01.Design\10.SoundMgr\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_output.h">
+      <Filter>01.Design\10.SoundMgr\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="InventoryUI.h">
+      <Filter>04.UI\03.InventoryUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemSlotUI.h">
+      <Filter>04.UI\03.InventoryUI\ItemSlotUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss_Pinkbean.h">
+      <Filter>03.Obj\02.Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_PowerElixer.h">
+      <Filter>03.Obj\03.Item\00.PowerElixer</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_RedPotion.h">
+      <Filter>03.Obj\03.Item\01.RedPotion</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_BluePotion.h">
+      <Filter>03.Obj\03.Item\02.BluePotion</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractFactoryITEM.h">
+      <Filter>01.Design\00.AbstracFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreeDoors.h">
+      <Filter>02.Scene\02.ThreeDoors</Filter>
+    </ClInclude>
+    <ClInclude Include="Portal2.h">
+      <Filter>03.Obj\01.NPC\09.Portal2</Filter>
+    </ClInclude>
+    <ClInclude Include="PinkFox.h">
+      <Filter>03.Obj\04.Pet\00.PinkFox</Filter>
+    </ClInclude>
+    <ClInclude Include="YellowFox.h">
+      <Filter>03.Obj\04.Pet\01.YellowFox</Filter>
+    </ClInclude>
+    <ClInclude Include="BlueFox.h">
+      <Filter>03.Obj\04.Pet\02.BlueFox</Filter>
+    </ClInclude>
+    <ClInclude Include="MobA1.h">
+      <Filter>03.Obj\05.Mob\00.MobA1</Filter>
+    </ClInclude>
+    <ClInclude Include="MobB1.h">
+      <Filter>03.Obj\05.Mob\01.MobB1</Filter>
+    </ClInclude>
+    <ClInclude Include="MobC1.h">
+      <Filter>03.Obj\05.Mob\02.MobC1</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Blackbean_Mark.h">
+      <Filter>03.Obj\03.Item\08.Blackbean_mark</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_BlackMage_Badge.h">
+      <Filter>03.Obj\03.Item\09.BlackMage_badge</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_OrangePotion.h">
+      <Filter>03.Obj\03.Item\03.OrangePotion</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Pinkbean_Balloon.h">
+      <Filter>03.Obj\03.Item\10.Pinkbean_balloon</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Pinkbean_Belt.h">
+      <Filter>03.Obj\03.Item\11.Pinkbean_belt</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Pinkbean_Cotton.h">
+      <Filter>03.Obj\03.Item\12.Pinkbean_cotton</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Pinkbean_Cup.h">
+      <Filter>03.Obj\03.Item\13.Pinkbean_cup</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Pinkbean_Hat.h">
+      <Filter>03.Obj\03.Item\05.Pinkbean_hat</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Pinkbean_mark.h">
+      <Filter>03.Obj\03.Item\07.Pinkbean_mark</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Pinkbean_Meat.h">
+      <Filter>03.Obj\03.Item\14.Pinkbean_meat</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Pinkbean_Pet.h">
+      <Filter>03.Obj\03.Item\15.Pinkbean_pet</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Pinkbean_Potion.h">
+      <Filter>03.Obj\03.Item\16.Pinkbean_potion</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Pinkbean_Soul.h">
+      <Filter>03.Obj\03.Item\17.Pinkbean_soul</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_Pinkbean_Suit.h">
+      <Filter>03.Obj\03.Item\06.Pinkbean_suit</Filter>
+    </ClInclude>
+    <ClInclude Include="Item_WhitePotion.h">
+      <Filter>03.Obj\03.Item\04.WhitePotion</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MapleStory.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>00.MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>01.Design\01.CollisionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjMgr.cpp">
+      <Filter>01.Design\02.ObjMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="LineMgr.cpp">
+      <Filter>01.Design\04.LineMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>01.Design\05.KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollMgr.cpp">
+      <Filter>01.Design\06.ScrollMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="BmpMgr.cpp">
+      <Filter>01.Design\07.BmpMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMgr.cpp">
+      <Filter>01.Design\08.SceneMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>03.Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="UIMgr.cpp">
+      <Filter>01.Design\03.UIMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui.cpp">
+      <Filter>04.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>01.Design\04.LineMgr\Line</Filter>
+    </ClCompile>
+    <ClCompile Include="MyBmp.cpp">
+      <Filter>01.Design\07.BmpMgr\MyBMP</Filter>
+    </ClCompile>
+    <ClCompile Include="ZeroTemple.cpp">
+      <Filter>02.Scene\00.ZeroTemple</Filter>
+    </ClCompile>
+    <ClCompile Include="ForgottenDusk.cpp">
+      <Filter>02.Scene\06.ForgottenDusk</Filter>
+    </ClCompile>
+    <ClCompile Include="GodsDusk.cpp">
+      <Filter>02.Scene\07.GodsDusk</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>02.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>03.Obj\00.Player</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_Ragun.cpp">
+      <Filter>03.Obj\01.NPC\00.RagunNone</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_Chou.cpp">
+      <Filter>03.Obj\01.NPC\01.ChouTrunk</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_Cell.cpp">
+      <Filter>03.Obj\01.NPC\02.CellStore</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_Pien.cpp">
+      <Filter>03.Obj\01.NPC\03.PienNone</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_Dello.cpp">
+      <Filter>03.Obj\01.NPC\04.DelloNone</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_EnterBoss.cpp">
+      <Filter>03.Obj\01.NPC\05.EnterBoss</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_ExitBoss.cpp">
+      <Filter>03.Obj\01.NPC\06.ExitBoss</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill_flashAssaulter.cpp">
+      <Filter>03.Obj\00.Player\01.FlashAssaulter</Filter>
+    </ClCompile>
+    <ClCompile Include="SKill_moonStrike.cpp">
+      <Filter>03.Obj\00.Player\00.MoonStrike</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill_upperSlash.cpp">
+      <Filter>03.Obj\00.Player\02.UpperSlash</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill_frontSlash.cpp">
+      <Filter>03.Obj\00.Player\03.FrontSlash</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_ExpBar.cpp">
+      <Filter>04.UI\00.BottomUI\00.Exp</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUi_ExpGauge.cpp">
+      <Filter>04.UI\00.BottomUI\00.Exp</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_HpTpGauge1.cpp">
+      <Filter>04.UI\00.BottomUI\01.HpTp</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_HpTpBar1.cpp">
+      <Filter>04.UI\00.BottomUI\01.HpTp</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_HpTpGauge2.cpp">
+      <Filter>04.UI\00.BottomUI\01.HpTp</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_HpTpBar2.cpp">
+      <Filter>04.UI\00.BottomUI\01.HpTp</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_AssistBar.cpp">
+      <Filter>04.UI\00.BottomUI\02.AssistHpTp</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_AssistHp.cpp">
+      <Filter>04.UI\00.BottomUI\02.AssistHpTp</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_AssistTp.cpp">
+      <Filter>04.UI\00.BottomUI\02.AssistHpTp</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_Bt3_Commu.cpp">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_Bt0_Cash.cpp">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_Bt1_Event.cpp">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_Bt2_Char.cpp">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_Bt4_Setting.cpp">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClCompile>
+    <ClCompile Include="MainUI_Bt5_Option.cpp">
+      <Filter>04.UI\00.BottomUI\03.Button</Filter>
+    </ClCompile>
+    <ClCompile Include="PB_MusicNote.cpp">
+      <Filter>03.Obj\02.Boss\00.PB_MusicNote</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>01.Design\10.SoundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="PB_Genesis.cpp">
+      <Filter>03.Obj\02.Boss\01.PB_Genesis</Filter>
+    </ClCompile>
+    <ClCompile Include="Portal.cpp">
+      <Filter>03.Obj\01.NPC\08.Portal</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>04.UI\02.Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="BossUI_HpBar.cpp">
+      <Filter>04.UI\01.BossUI\00.Hp</Filter>
+    </ClCompile>
+    <ClCompile Include="BossUI_HpGauge.cpp">
+      <Filter>04.UI\01.BossUI\00.Hp</Filter>
+    </ClCompile>
+    <ClCompile Include="BossUI_Bt1_Normal.cpp">
+      <Filter>04.UI\01.BossUI\01.EnterUI</Filter>
+    </ClCompile>
+    <ClCompile Include="BossUI_Bt2_Chaos.cpp">
+      <Filter>04.UI\01.BossUI\01.EnterUI</Filter>
+    </ClCompile>
+    <ClCompile Include="BossUI_EnterBox.cpp">
+      <Filter>04.UI\01.BossUI\01.EnterUI</Filter>
+    </ClCompile>
+    <ClCompile Include="BossUI_Bt1_Accept.cpp">
+      <Filter>04.UI\01.BossUI\02.CallBoss</Filter>
+    </ClCompile>
+    <ClCompile Include="BossUI_Bt2_Refuse.cpp">
+      <Filter>04.UI\01.BossUI\02.CallBoss</Filter>
+    </ClCompile>
+    <ClCompile Include="BossUI_CallBox.cpp">
+      <Filter>04.UI\01.BossUI\02.CallBoss</Filter>
+    </ClCompile>
+    <ClCompile Include="BossUI_Bt1_Yes.cpp">
+      <Filter>04.UI\01.BossUI\03.ExitUI</Filter>
+    </ClCompile>
+    <ClCompile Include="BossUI_ExitBox.cpp">
+      <Filter>04.UI\01.BossUI\03.ExitUI</Filter>
+    </ClCompile>
+    <ClCompile Include="BossUI_Bt2_No.cpp">
+      <Filter>04.UI\01.BossUI\03.ExitUI</Filter>
+    </ClCompile>
+    <ClCompile Include="NPC_Kirstern.cpp">
+      <Filter>03.Obj\01.NPC\07.KirsternBoss</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMgr.cpp">
+      <Filter>01.Design\09.TileMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="PinkBeanVideo.cpp">
+      <Filter>02.Scene\08.PinkBeanVideo</Filter>
+    </ClCompile>
+    <ClCompile Include="InventoryUI.cpp">
+      <Filter>04.UI\03.InventoryUI</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemSlotUI.cpp">
+      <Filter>04.UI\03.InventoryUI\ItemSlotUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss_Pinkbean.cpp">
+      <Filter>03.Obj\02.Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_PowerElixer.cpp">
+      <Filter>03.Obj\03.Item\00.PowerElixer</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_RedPotion.cpp">
+      <Filter>03.Obj\03.Item\01.RedPotion</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_BluePotion.cpp">
+      <Filter>03.Obj\03.Item\02.BluePotion</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreeDoors.cpp">
+      <Filter>02.Scene\02.ThreeDoors</Filter>
+    </ClCompile>
+    <ClCompile Include="Portal2.cpp">
+      <Filter>03.Obj\01.NPC\09.Portal2</Filter>
+    </ClCompile>
+    <ClCompile Include="PinkFox.cpp">
+      <Filter>03.Obj\04.Pet\00.PinkFox</Filter>
+    </ClCompile>
+    <ClCompile Include="YellowFox.cpp">
+      <Filter>03.Obj\04.Pet\01.YellowFox</Filter>
+    </ClCompile>
+    <ClCompile Include="BlueFox.cpp">
+      <Filter>03.Obj\04.Pet\02.BlueFox</Filter>
+    </ClCompile>
+    <ClCompile Include="MobA1.cpp">
+      <Filter>03.Obj\05.Mob\00.MobA1</Filter>
+    </ClCompile>
+    <ClCompile Include="MobB1.cpp">
+      <Filter>03.Obj\05.Mob\01.MobB1</Filter>
+    </ClCompile>
+    <ClCompile Include="MobC1.cpp">
+      <Filter>03.Obj\05.Mob\02.MobC1</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Blackbean_Mark.cpp">
+      <Filter>03.Obj\03.Item\08.Blackbean_mark</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_BlackMage_Badge.cpp">
+      <Filter>03.Obj\03.Item\09.BlackMage_badge</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_OrangePotion.cpp">
+      <Filter>03.Obj\03.Item\03.OrangePotion</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Pinkbean_Balloon.cpp">
+      <Filter>03.Obj\03.Item\10.Pinkbean_balloon</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Pinkbean_Belt.cpp">
+      <Filter>03.Obj\03.Item\11.Pinkbean_belt</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Pinkbean_Cotton.cpp">
+      <Filter>03.Obj\03.Item\12.Pinkbean_cotton</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Pinkbean_Cup.cpp">
+      <Filter>03.Obj\03.Item\13.Pinkbean_cup</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Pinkbean_Hat.cpp">
+      <Filter>03.Obj\03.Item\05.Pinkbean_hat</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Pinkbean_mark.cpp">
+      <Filter>03.Obj\03.Item\07.Pinkbean_mark</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Pinkbean_Meat.cpp">
+      <Filter>03.Obj\03.Item\14.Pinkbean_meat</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Pinkbean_Pet.cpp">
+      <Filter>03.Obj\03.Item\15.Pinkbean_pet</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Pinkbean_Potion.cpp">
+      <Filter>03.Obj\03.Item\16.Pinkbean_potion</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Pinkbean_Soul.cpp">
+      <Filter>03.Obj\03.Item\17.Pinkbean_soul</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_Pinkbean_Suit.cpp">
+      <Filter>03.Obj\03.Item\06.Pinkbean_suit</Filter>
+    </ClCompile>
+    <ClCompile Include="Item_WhitePotion.cpp">
+      <Filter>03.Obj\03.Item\04.WhitePotion</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MapleStory.rc">
+      <Filter>소스 파일\리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>소스 파일\리소스 파일</Filter>
+    </Image>
+    <Image Include="MapleStory.ico">
+      <Filter>소스 파일\리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

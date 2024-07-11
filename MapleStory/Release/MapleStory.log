@@ -1,0 +1,269 @@
+﻿  BlueFox.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\BlueFox.cpp(76,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\BlueFox.cpp(75,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BossUI_HpGauge.cpp
+  Boss_Pinkbean.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Boss_Pinkbean.cpp(51,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Boss_Pinkbean.cpp(184,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Boss_Pinkbean.cpp(183,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Boss_Pinkbean.cpp(182,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Boss_Pinkbean.cpp(181,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Boss_Pinkbean.cpp(177,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Boss_Pinkbean.cpp(176,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Boss_Pinkbean.cpp(175,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Boss_Pinkbean.cpp(174,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CollisionMgr.cpp
+  ForgottenDusk.cpp
+  GodsDusk.cpp
+  InventoryUI.cpp
+  Item_BlackMage_Badge.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_BlackMage_Badge.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_BlackMage_Badge.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Blackbean_Mark.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Blackbean_Mark.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Blackbean_Mark.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_BluePotion.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_BluePotion.cpp(70,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_BluePotion.cpp(69,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_OrangePotion.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_OrangePotion.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_OrangePotion.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Pinkbean_Balloon.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Balloon.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Balloon.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Pinkbean_Belt.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Belt.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Belt.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Pinkbean_Cotton.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Cotton.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Cotton.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Pinkbean_Cup.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Cup.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Cup.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Pinkbean_Hat.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Hat.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Hat.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Pinkbean_Meat.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Meat.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Meat.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Pinkbean_Pet.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Pet.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Pet.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Pinkbean_Potion.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Potion.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Potion.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Pinkbean_Soul.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Soul.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Soul.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  Item_Pinkbean_Suit.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Suit.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_Suit.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Pinkbean_mark.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_mark.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_Pinkbean_mark.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_PowerElixer.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_PowerElixer.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_PowerElixer.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_RedPotion.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_RedPotion.cpp(70,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_RedPotion.cpp(69,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_WhitePotion.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_WhitePotion.cpp(68,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Item_WhitePotion.cpp(67,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LineMgr.cpp
+  MainGame.cpp
+  MainUI_AssistBar.cpp
+  MainUI_AssistHp.cpp
+  MainUI_AssistTp.cpp
+  MainUI_HpTpGauge1.cpp
+  MainUI_HpTpGauge2.cpp
+  MainUi_ExpGauge.cpp
+  MobA1.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\MobA1.cpp(122,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\MobA1.cpp(121,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MobB1.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\MobB1.cpp(123,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\MobB1.cpp(122,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MobC1.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\MobC1.cpp(119,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\MobC1.cpp(118,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mouse.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Mouse.cpp(88,16): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NPC_Cell.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Cell.cpp(26,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Cell.cpp(79,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Cell.cpp(78,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Cell.cpp(77,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Cell.cpp(76,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Cell.cpp(72,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Cell.cpp(71,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Cell.cpp(70,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Cell.cpp(69,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NPC_Chou.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Chou.cpp(26,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Chou.cpp(78,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Chou.cpp(77,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Chou.cpp(76,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Chou.cpp(75,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Chou.cpp(71,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Chou.cpp(70,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Chou.cpp(69,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Chou.cpp(68,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NPC_Dello.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Dello.cpp(26,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Dello.cpp(78,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Dello.cpp(77,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Dello.cpp(76,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Dello.cpp(75,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Dello.cpp(71,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Dello.cpp(70,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Dello.cpp(69,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Dello.cpp(68,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  NPC_EnterBoss.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_EnterBoss.cpp(34,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_EnterBoss.cpp(97,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_EnterBoss.cpp(96,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_EnterBoss.cpp(95,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_EnterBoss.cpp(94,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_EnterBoss.cpp(90,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_EnterBoss.cpp(89,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_EnterBoss.cpp(88,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_EnterBoss.cpp(87,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NPC_ExitBoss.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_ExitBoss.cpp(35,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_ExitBoss.cpp(104,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_ExitBoss.cpp(103,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_ExitBoss.cpp(102,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_ExitBoss.cpp(101,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_ExitBoss.cpp(97,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_ExitBoss.cpp(96,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_ExitBoss.cpp(95,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_ExitBoss.cpp(94,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NPC_Kirstern.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Kirstern.cpp(37,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Kirstern.cpp(103,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Kirstern.cpp(102,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Kirstern.cpp(101,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Kirstern.cpp(100,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Kirstern.cpp(96,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Kirstern.cpp(95,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Kirstern.cpp(94,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Kirstern.cpp(93,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NPC_Pien.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Pien.cpp(25,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Pien.cpp(77,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Pien.cpp(76,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Pien.cpp(75,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Pien.cpp(74,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Pien.cpp(70,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Pien.cpp(69,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Pien.cpp(68,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Pien.cpp(67,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NPC_Ragun.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Ragun.cpp(25,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Ragun.cpp(77,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Ragun.cpp(76,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Ragun.cpp(75,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Ragun.cpp(74,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Ragun.cpp(70,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Ragun.cpp(69,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Ragun.cpp(68,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\NPC_Ragun.cpp(67,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Obj.cpp
+  ObjMgr.cpp
+  PB_Genesis.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_Genesis.cpp(30,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_Genesis.cpp(96,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_Genesis.cpp(95,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_Genesis.cpp(94,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_Genesis.cpp(93,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_Genesis.cpp(89,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_Genesis.cpp(88,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_Genesis.cpp(87,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_Genesis.cpp(86,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PB_MusicNote.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_MusicNote.cpp(29,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_MusicNote.cpp(95,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_MusicNote.cpp(94,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_MusicNote.cpp(93,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_MusicNote.cpp(92,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_MusicNote.cpp(88,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_MusicNote.cpp(87,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_MusicNote.cpp(86,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PB_MusicNote.cpp(85,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PinkFox.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PinkFox.cpp(76,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\PinkFox.cpp(75,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(28,48): warning C4244: '초기화 중': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(166,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(264,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(263,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(262,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(261,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(257,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(256,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(255,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(254,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(501,17): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(502,18): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Player.cpp(876,27): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Portal.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Portal.cpp(55,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Portal.cpp(55,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Portal2.cpp
+  SKill_moonStrike.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\SKill_moonStrike.cpp(30,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\SKill_moonStrike.cpp(105,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\SKill_moonStrike.cpp(104,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\SKill_moonStrike.cpp(103,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\SKill_moonStrike.cpp(102,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\SKill_moonStrike.cpp(98,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\SKill_moonStrike.cpp(97,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\SKill_moonStrike.cpp(96,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\SKill_moonStrike.cpp(95,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+  Skill_flashAssaulter.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_flashAssaulter.cpp(31,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_flashAssaulter.cpp(106,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_flashAssaulter.cpp(105,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_flashAssaulter.cpp(104,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_flashAssaulter.cpp(103,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_flashAssaulter.cpp(99,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_flashAssaulter.cpp(98,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_flashAssaulter.cpp(97,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_flashAssaulter.cpp(96,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Skill_frontSlash.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_frontSlash.cpp(30,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_frontSlash.cpp(107,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_frontSlash.cpp(106,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_frontSlash.cpp(105,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_frontSlash.cpp(104,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_frontSlash.cpp(100,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_frontSlash.cpp(99,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_frontSlash.cpp(98,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_frontSlash.cpp(97,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Skill_upperSlash.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_upperSlash.cpp(31,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_upperSlash.cpp(107,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_upperSlash.cpp(106,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_upperSlash.cpp(105,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_upperSlash.cpp(104,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_upperSlash.cpp(100,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_upperSlash.cpp(99,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_upperSlash.cpp(98,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\Skill_upperSlash.cpp(97,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ThreeDoors.cpp
+  UIMgr.cpp
+  컴파일하고 있습니다...
+  YellowFox.cpp
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\YellowFox.cpp(76,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\★쥬신\개인시연회 자료\★MapleStory\MapleStory\YellowFox.cpp(75,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ZeroTemple.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1563 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  MapleStory.vcxproj -> E:\★쥬신\개인시연회 자료\★MapleStory\Release\MapleStory.exe
